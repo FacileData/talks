@@ -27,8 +27,11 @@ These modules can be used in two modes:
 
 This was the first public debut of FacileData, given on May 3, 2017 at [PLOTCON][plotcon]. We outlined the need for tools that enable better collaboration between biologists and computational biologists, and showcased how the `FacileDataSet` and `FacileExplorer` serves this purpose.
 
+The [video of this talk][plotconvideo] has been [posted to YouTube][plotconvideo].
+
 [tcga]: https://cancergenome.nih.gov/
 [gadget]: https://shiny.rstudio.com/articles/gadgets.html
 [modules]: https://shiny.rstudio.com/articles/modules.html
 [bioconductor]: https://bioconductor.org
 [plotcon]: https://plotcon.plot.ly/
+[plotconvideo]: https://www.youtube.com/watch?v=-qepBa5vYxU
